@@ -1,9 +1,10 @@
 body{
     margin: 0;
+    padding: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
-    color: antiquewhite;
-    line-height: 1.5;
+    color: #000000;
+    line-height: .8;
 }
 
 #showcase{
@@ -13,8 +14,22 @@ body{
     height: 100vh;
     display:flex;
     flex-direction:column;
-    justify-content:center;
+    justify-content:top;
     align-items:center;
-    text-align:center;
+    text-align:top;
     padding:0 20px;
+}
+
+#showcase h1{
+    font-size: 50px;
+}
+
+#showcase .button{
+    font-size: 12px;
+    text-decoration:none;
+    color:#926239;
+    border:#926239 1px solid;
+    padding:10px 20px;
+    border-radius: 5px;
+    margin-top: 8px;
 }
