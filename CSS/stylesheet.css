@@ -1,21 +1,20 @@
-body{background-color: lightblue;}
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    color: antiquewhite;
+    line-height: 1.5;
+}
 
-/* body formatting */
-body {margin: 50px;}
-
-/* Main header color formatting */
-h1 {color: darkblue;}
-
-/* Small headers colors */
-h3 {color: blue; font-style: italic;}
-
-/* CSS class color for "Iowa" */
-.Iowa {color: gold; font-weight: bold;}
-
-/* CSS IDs*/
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 1px;
-    margin: 10px;
+#showcase{
+    background-image: url("../images/showcase.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:0 20px;
 }
