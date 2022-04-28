@@ -28,6 +28,11 @@ body{
     font-size: 15px;
 }
 
+#showcase img{
+    border-radius: 50%;
+}
+
+
 #showcase .button{
     font-size: 10px;
     text-decoration:none;
