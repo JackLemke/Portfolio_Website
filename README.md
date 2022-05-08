@@ -22,7 +22,7 @@ I created a landing page for myself with some information and links to my Linked
 ## General Information
 
 
-For this project, we were to create and design a portfolio landing page for ourselves. I used html and python languages to build my landing page. I designed using a CSS stylesheet and included images of myself and Chicago
+For this project, we were to create and design a portfolio landing page for ourselves. I used html and python languages to build my landing page. I designed using a CSS stylesheet and included images of myself and Chicago.
 
 
 ## Technologies Used
